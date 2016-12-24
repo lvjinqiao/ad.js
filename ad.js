@@ -12,7 +12,7 @@
 
 */
 
-function FindUserProxyForURL(url, host){
+function FindProxyForURL(url, host){
 
     /********************************************
     *                                           *
@@ -24,7 +24,7 @@ function FindUserProxyForURL(url, host){
     *                                           *
     ********************************************/
 
-    var mode = 2;
+    var mode = 1;
 
     //【以下http代理设置仅在 “mode = 1” 时有效】
     var domain = "127.0.0.1";
@@ -3850,7 +3850,7 @@ function FindUserProxyForURL(url, host){
     return IS_NOT_AD;
 }
 
-/**********************************************
+/*********************************************
 *                                             *
 *            使用pac规则代理的方法               *
 *                                             *
