@@ -62,10 +62,10 @@ function FindProxyForURL(url, host){
 "stat.pptv.com",
 "afp.pplive.com",
 //<iqiyi>
-"cm.passport.iqiyi.com",
+/*"cm.passport.iqiyi.com",
 "cupid.iqiyi.com",
 "paopao.iqiyi.com",
-"ckm.iqiyi.com",
+"ckm.iqiyi.com",*/
 //<google>
 "2mdn.net",
 "admob.com",
