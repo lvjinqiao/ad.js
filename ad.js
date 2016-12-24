@@ -78,7 +78,7 @@ function FindProxyForURL(url, host){
 "t.l.qq.com",
 "rlog.video.qq.com",
 "la.gtimg.com",
-"pgdt.gtimg.cn.com",
+"pgdt.gtimg.com",
 //<google>
 "2mdn.net",
 "admob.com",
