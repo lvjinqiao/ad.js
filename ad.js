@@ -55,7 +55,7 @@ function FindProxyForURL(url, host){
  "valc.atm.youku.com",
 "valo.atm.youku.com",
 " valp.atm.youku.com",
-
+"down1.bcibc.com#youku.com",
 
 //=========域名End=========
 //【在分界线上面可以追加域名，两边加上双引号，使用逗号分隔。】
