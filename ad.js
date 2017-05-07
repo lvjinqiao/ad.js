@@ -38,24 +38,7 @@ function FindProxyForURL(url, host){
 "statis.api.3g.youku.com",
 "atm.youku.com",
 "stat.youku.com",
-"hudong.pl.youku.com",
- "myes.youku.com",
-" p.l.youku.com",
- "player.lstat.youku.com",
- "r.l.youku.com",
- "v.l.youku.com",
-" cm.miaozhen.atm.youku.com",
- "html.atm.youku.com",
- "ipm.atm.youku.com",
-"miaozhen.atm.youku.com",
- "static.atm.youku.com",
- "v2html.atm.youku.com",
- "val.atm.youku.com",
- "valb.atm.youku.com",
- "valc.atm.youku.com",
-"valo.atm.youku.com",
-" valp.atm.youku.com",
-"down1.bcibc.com#youku.com",
+
 
 //=========域名End=========
 //【在分界线上面可以追加域名，两边加上双引号，使用逗号分隔。】
