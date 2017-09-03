@@ -307,7 +307,27 @@ function FindProxyForURL(url, host){
 "atm.youku.com",
 "stat.youku.com",
 
+127.0.0.1 atm.youku.com
+127.0.0.1 Fvid.atm.youku.com
+127.0.0.1 html.atm.youku.com
+127.0.0.1 valb.atm.youku.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 valo.atm.youku.com
+127.0.0.1 valp.atm.youku.com
+127.0.0.1 lstat.youku.com.com
+127.0.0.1 speed.lstat.youku.com
+127.0.0.1 urchin.lstat.youku.com
+127.0.0.1 stat.youku.com
+127.0.0.1 static.lastat.youku.com
+127.0.0.1 valc.atm.youku.com
+127.0.0.1 vid.atm.youku.com
+127.0.0.1 walp.atm.youku.com
 
+
+127.0.0.1 iyes.youku.com
+127.0.0.1 val.atm.youku.com
+127.0.0.1 vyk.admaster.com.cn
+127.0.0.1 imp.atm.youku.com
 //=========域名End=========
 //【在分界线上面可以追加域名，两边加上双引号，使用逗号分隔。】
     ]
